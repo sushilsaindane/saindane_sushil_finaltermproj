@@ -98,7 +98,9 @@ Contributions to improve the project are welcome. Please follow these steps:
 ## Contact
 
 Sushil Saindane - sbs8@njit.edu
+
 LinkedIn - https://www.linkedin.com/in/sushil-saindane-12520a1a4/
+
 Project Link: https://github.com/sushilsaindane/saindane_sushil_finaltermproj
 
 
