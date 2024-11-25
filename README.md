@@ -44,24 +44,24 @@ pip install pandas numpy scikit-learn tensorflow matplotlib seaborn tabulate tqd
 2. Run the Python script:
    python saindane_sushil_finaltermproj.py
 3. The program will execute the following steps:
-  - Load and preprocess the dataset (50,000 rows)
-  - Split the data into training and testing sets
-  - Scale the features using StandardScaler
-  - Binarize features for Bernoulli Naive Bayes
+    - Load and preprocess the dataset (50,000 rows)
+    - Split the data into training and testing sets
+    - Scale the features using StandardScaler
+    - Binarize features for Bernoulli Naive Bayes
 4. For each model (Random Forest, Decision Tree, LSTM, Bernoulli Naive Bayes):
-  - Perform 10-fold cross-validation
-  - Train the model on each fold
-  - Calculate performance metrics for each fold
-  - Evaluate the model on the test set
+    - Perform 10-fold cross-validation
+    - Train the model on each fold
+    - Calculate performance metrics for each fold
+    - Evaluate the model on the test set
 5. The program will display:
-  - Progress bars for data processing and model training
-  - Detailed metrics tables for each model, including per-fold results, averages, and test set performance
-  - Confusion matrices for visual analysis of each model's performance
+    - Progress bars for data processing and model training
+    - Detailed metrics tables for each model, including per-fold results, averages, and test set performance
+    - Confusion matrices for visual analysis of each model's performance
 6. Results will be saved as .npy files in the same directory:
-  - `rf_results.npy` for Random Forest
-  - `dt_results.npy` for Decision Tree
-  - `lstm_results.npy` for LSTM
-  - `bnb_results.npy` for Bernoulli Naive Bayes
+    - `rf_results.npy` for Random Forest
+    - `dt_results.npy` for Decision Tree
+    - `lstm_results.npy` for LSTM
+    - `bnb_results.npy` for Bernoulli Naive Bayes
 7. A final comparison table of all models' performance on the test set will be displayed.
 
 Note: The entire process may take some time to complete, especially the LSTM training. Ensure you have sufficient computational resources available.
