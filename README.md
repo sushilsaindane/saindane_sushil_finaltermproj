@@ -14,7 +14,7 @@ This project implements and compares four classification algorithms for detectin
 ## Features
 
 - Implements four different classification algorithms
-- Utilizes the PhiUSIIL Phishing URL Dataset (50,000 rows)
+- Utilizes the PhiUSIIL Phishing URL Dataset
 - Performs data preprocessing including feature hashing and one-hot encoding
 - Implements 10-fold cross-validation for model evaluation
 - Calculates and compares various performance metrics (Accuracy, Precision, Recall, F1-score, TPR, TNR, FPR, FNR, TSS, HSS)
