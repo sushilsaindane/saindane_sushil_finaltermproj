@@ -14,7 +14,7 @@ This project implements and compares four classification algorithms for detectin
 ## Features
 
 - Implements four different classification algorithms
-- Utilizes the PhiUSIIL Phishing URL Dataset (50,000 rows)
+- Utilizes the PhiUSIIL Phishing URL Dataset
 - Performs data preprocessing including feature hashing and one-hot encoding
 - Implements 10-fold cross-validation for model evaluation
 - Calculates and compares various performance metrics (Accuracy, Precision, Recall, F1-score, TPR, TNR, FPR, FNR, TSS, HSS)
@@ -72,8 +72,7 @@ Or open and run the Jupyter notebook `saindane_sushil_finaltermproj.ipynb`.
 
 - `saindane_sushil_finaltermproj.py`: Main Python script
 - `saindane_sushil_finaltermproj.ipynb`: Jupyter notebook version
-- `PhiUSIIL_Phishing_URL_Dataset.csv`: Dataset file (not included in repository due to size)
-
+- `PhiUSIIL_Phishing_URL_Dataset.csv`: Dataset file
 ## Results
 
 The project outputs:
