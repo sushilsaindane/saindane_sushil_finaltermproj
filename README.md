@@ -72,8 +72,7 @@ Or open and run the Jupyter notebook `saindane_sushil_finaltermproj.ipynb`.
 
 - `saindane_sushil_finaltermproj.py`: Main Python script
 - `saindane_sushil_finaltermproj.ipynb`: Jupyter notebook version
-- `PhiUSIIL_Phishing_URL_Dataset.csv`: Dataset file (not included in repository due to size)
-
+- `PhiUSIIL_Phishing_URL_Dataset.csv`: Dataset file
 ## Results
 
 The project outputs:
