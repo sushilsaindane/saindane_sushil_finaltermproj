@@ -96,7 +96,7 @@ Contributions to improve the project are welcome. Please follow these steps:
 
 ## Contact
 
-Sushil Saindane - sbs8@njit.edu
+Sushil Saindane - sushswork@gmail.com
 
 LinkedIn - https://www.linkedin.com/in/sushil-saindane-12520a1a4/
 
